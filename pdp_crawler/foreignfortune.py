@@ -39,8 +39,8 @@ except:
     pass
 
 
-#to crawl the pdp I am using the keywords shirt and pants
-keywords=['shirts','sirts and pant']
+#to crawl the pdp I am using some keywords 
+keywords=['shirts','shirts and pant']
 
 #declaring the list to store the results
 result=[]
